@@ -61,6 +61,16 @@ You'll need the **Medical Assistant Voice Recognition Server** running on the sa
 
 ---
 
+## 🚨 Before Starting
+
+> **⚠️ IMPORTANT**: Make sure to set up the **Server** backend first!
+> 
+> The Flutter client requires the Medical Assistant Voice Recognition Server running on the same network. Without the server, the application will not function properly.
+> 
+> 📘 **Server Setup Guide**: [\[Vuzix Healthcare Server Repository\]](https://github.com/DavidMBK/VuzixShieldServerHealthcare)
+
+---
+
 ## 🚀 Quick Start
 
 ### 1️⃣ Install Flutter
@@ -86,8 +96,8 @@ Engine - revision 72f2b18bb0 (4 months ago) - 2025-07-08 10:33:53 -0700
 
 ### 3️⃣ Clone the Repository
 
-git clone <your-repository-url>
-cd <project-directory>
+git clone <https://github.com/DavidMBK/VuzixShieldClientHealthcare>
+cd <VuzixShieldClientHealthcare>
 
 
 ### 4️⃣ Install Dependencies

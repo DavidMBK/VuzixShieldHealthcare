@@ -10,4 +10,4 @@ When testing, be sure that your server is reachable from your device (whichever 
 So you need to be in the same network (e.g. same WiFi/Hotspot) of your server.
 */
 
-const String SERVER_IP = 'ws://192.168.1.34:8000/ws/transcribe';
+const String SERVER_IP = 'ws://128.162.12.74:8000/ws/transcribe';
